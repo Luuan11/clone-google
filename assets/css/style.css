@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: arial, sans-serif;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.header{
+    display: flex;
+    justify-content: end;
+}
+
+.header-nav{
+    margin-right: 20px;
+}
+
+.header-nav li{
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 15px;
+    font-size: 13px;
+}
+
+.header-navlogin{
+    background-color: #4887ef;
+    padding: 9px 23px;
+    font-weight: 500;
+    cursor: pointer;
+    border-radius: 4px;
+    color: #fff;
+}
