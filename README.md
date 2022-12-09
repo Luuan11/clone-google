@@ -5,8 +5,6 @@
 
 ![preview](https://user-images.githubusercontent.com/79935555/201451197-800de4f4-1d06-47b8-973d-73991967b258.png)
 
-### <p align="center"> <a href="https://luuan11.github.io/google-clone/">Clique aqui para ver meu projeto!</a> </p>
-
 ## 💬 Sobre
 Página de pesquisa do google, aviso que a tela não está 100% legítima a página do google
 feito no dia(01/12/2022)
